@@ -37767,7 +37767,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-search-icon-1 {
-  width: 16px;
   height: 16px;
 }
 @media (max-width: 1199px) {
@@ -37780,6 +37779,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-search-1 {
     height: auto;
     margin-top: -40px;
+  }
+
+  .u-header .u-search-icon-1 {
+    width: 16px;
   }
 }
 @media (max-width: 991px) {
