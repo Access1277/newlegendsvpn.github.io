@@ -37760,84 +37760,69 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -50px 85px 0;
 }
 
-.u-header .u-search-1 {
-  width: 200px;
-  min-height: 38px;
-  margin: -41px 0 23px auto;
+.u-header .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 32px;
+  min-width: 16px;
+  margin: -39px 0 0 auto;
 }
 
-.u-header .u-search-icon-1 {
-  height: 16px;
+.u-header .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-top: -50px;
+    margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
+    margin-bottom: initial;
   }
 
-  .u-header .u-search-1 {
-    height: auto;
-    margin-top: -40px;
-  }
-
-  .u-header .u-search-icon-1 {
-    width: 16px;
+  .u-header .u-social-icons-1 {
+    margin-top: 20px;
+    margin-bottom: initial;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 107px;
-  }
-
   .u-header .u-text-1 {
     font-size: 3.4375rem;
-    margin-top: -51px;
   }
 
-  .u-header .u-search-1 {
-    margin-top: -62px;
-    margin-right: 58px;
-    margin-bottom: 44px;
+  .u-header .u-social-icons-1 {
+    margin-bottom: 0;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 98px;
-  }
-
   .u-header .u-text-1 {
     font-size: 3rem;
-    margin-top: -51px;
-  }
-
-  .u-header .u-search-1 {
-    margin-top: -53px;
-    margin-bottom: 35px;
+    margin-bottom: 20px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 125px;
+    min-height: 57px;
   }
 
   .u-header .u-image-1 {
-    width: 37px;
-    height: 38px;
-    margin-top: 76px;
-    margin-left: 18px;
+    width: 36px;
+    height: 37px;
+    margin-top: 14px;
+    margin-left: -36px;
   }
 
   .u-header .u-text-1 {
     font-size: 2.125rem;
     width: auto;
-    margin-top: -96px;
+    margin-top: -37px;
+    margin-bottom: 0;
   }
 
-  .u-header .u-search-1 {
-    margin-top: 18px;
-    margin-right: 18px;
-    margin-bottom: 11px;
+  .u-header .u-social-icons-1 {
+    margin-top: -37px;
+    margin-right: -32px;
+    margin-bottom: 20px;
   }
 }
  .u-footer {
